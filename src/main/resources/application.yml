@@ -1,0 +1,5 @@
+server:
+  port: 8080
+country_api_url: https://restcountries.com/v3.1/
+fixer_api_url: http://data.fixer.io/api/latest
+fixer_access_key: 95373bfc75221d2e87d3d1cbf498289e
